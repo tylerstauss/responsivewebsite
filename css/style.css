@@ -4,6 +4,10 @@ body {
 	background: #420600 url('img/bg-texture.jpg') repeat;
 }
 
+img {
+	max-width: 100%;
+}
+
 a {
 	color: #4fb69f;
 	text-decoration: none;
