@@ -73,8 +73,8 @@ ul.nav li a {
 
 /* media queries */
 
-/* iphone */
-@media screen and (max-width: 480px) {
+/* smaller */
+@media screen and (max-width: 650px) {
 	.grid_1,
 	.grid_2,
 	.grid_3,
@@ -126,7 +126,7 @@ ul.nav li a {
 
 
 
-/* Tablet ----------- */
+/* Medium Resolution ----------- */
 @media screen and (max-width: 1024px) {
 
 
@@ -173,6 +173,7 @@ ul.nav li a {
 
 
 }
+
 
 
 
